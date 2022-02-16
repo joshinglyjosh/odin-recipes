@@ -1,0 +1,23 @@
+h1 {
+    background-color: #ffff00;
+}
+
+h2 {
+    background-color: #7fffd4;
+}
+
+.center ul,
+.center,
+p {
+    text-align: center;
+}
+
+a {
+    font-size: 30px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
